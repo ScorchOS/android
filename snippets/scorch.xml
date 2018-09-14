@@ -2,8 +2,8 @@
 <manifest>
   
   <remote  name="scorch"
-           fetch="https://github.com/ScorchOS"
-            revision="refs/heads/scorch-8.1" />
+          fetch="https://github.com/ScorchOS"
+          revision="scorch-8.1" />
 
   <!-- LineageOS and ScorchOS additions -->
   <project path="android" name="LineageOS/android" />
