@@ -2,7 +2,7 @@
 <manifest>
   
   <remote  name="scorch"
-          fetch="https://github.com/ScorchOS"
+          fetch="https://github.com/"
           revision="scorch-8.1" />
 
   <!-- LineageOS and ScorchOS additions -->
