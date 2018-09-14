@@ -9,7 +9,7 @@
            fetch="ssh://git@github.com" />
   
   <remote  name="scorch"
-           fetch="https://www.github.com/ScorchOS"
+           fetch="https://www.github.com/"
            revision="scorch-8.1" />
 
   <remote  name="aosp"
